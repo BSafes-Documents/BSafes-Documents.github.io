@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Papers 
+title: Mobile-Friendly Documents 
 nav_order: 1
-description: "Cybersecurity Research Papers"
+description: "Mobile-Friendly Documents"
 permalink: /
 ---
 
-# Cybersecurity Research Papers
+# Mobile-Friendly Documents 
