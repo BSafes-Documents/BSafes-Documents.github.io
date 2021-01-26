@@ -154,5 +154,10 @@ Simply put, President Trump has no free speech defense. President Trump is not a
 
 Accordingly, the judgment for Congress to make is not whether President Trump had a free speech right to say what he said on January 6, 2021. It is whether that conduct qualified as a high Crime and Misdemeanor under the applicable constitutional standard. For the reasons set forth above, there can be no doubt that it did: inciting a mob to assault the Capitol while Congress meets in Joint Session to count the electoral votes in the presidential election results is plainly an impeachable offense.
  
+<div style='text-align:right' markdown="1">
+[Next](/docs/government/mateials-in-support-of-h-res-24-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors-4/)
+</div>
 
-
+<div style='text-align:left' markdown="1">
+[Previous](/docs/government/mateials-in-support-of-h-res-24-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors-2/)
+</div>

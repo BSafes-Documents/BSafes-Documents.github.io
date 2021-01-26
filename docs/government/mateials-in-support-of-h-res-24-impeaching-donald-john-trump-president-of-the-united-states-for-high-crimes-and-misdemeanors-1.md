@@ -44,3 +44,6 @@ The threat that manifested in the Capitol on January 6, 2021 is ongoing. The eme
 
 Impeachment is not a punishment of prior wrongs, but a protection against future evils. It is true that the President’s remaining term is limited—but a President capable of fomenting a violent insurrection in the Capitol is capable of greater dangers still. He must be removed from office as swiftly as the Constitution allows. He must also be disqualified to prevent the recurrence of the extraordinary threat he presents. For these reasons, the House must impeach President Donald J. Trump.
 
+<div style='text-align:right' markdown="1">
+[Next](/docs/government/mateials-in-support-of-h-res-24-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors-2/)
+</div>

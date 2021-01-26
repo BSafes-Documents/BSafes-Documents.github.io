@@ -326,3 +326,7 @@ Dan Packel, Thousands of Attorneys Join Calls for Trump's Immediate Removal, Law
 - Papers of John Adams vol. 2 p. 314, Massachusetts Historical Society (http://www.masshist.org/publications/adams-papers/index.php/view/PJA02p314)
 - Staff of H. Comm. on the Judiciary, 116th Cong. Constitutional Grounds for Presidential Impeachment (Comm. Print 2019) (https://www.govinfo.gov/content/pkg/CPRT-116HPRT38513/pdf/CPRT-116HPRT38513.pdf)
 - S. Doc 116-12 (https://www.govinfo.gov/content/pkg/CDOC-116sdoc12/pdf/CDOC-116sdoc12-pt1.pdf) (https://www.govinfo.gov/content/pkg/CDOC-116sdoc12/pdf/CDOC-116sdoc12-pt2.pdf) (https://www.govinfo.gov/content/pkg/CDOC-116sdoc12/pdf/CDOC-116sdoc12-pt3.pdf)
+
+<div style='text-align:left' markdown="1">
+[Previous](/docs/government/mateials-in-support-of-h-res-24-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors-5/)
+</div>

@@ -120,3 +120,10 @@ President Trump did not just falsely assert that he won the Presidency. He went 
 
 President Trump also encouraged his Vice President to violate his own oath and claim unilateral authority to reject the votes of the Electoral College in an unconstitutional effort to declare President Trump the victor. Vice President Pence rightly rejected this view in his January 6, 2021 letter: “When disputes concerning a presidential election arise, under Federal law, it is the people’s representatives who review the evidence and resolve disputes through a democratic process.”260 As Vice President Pence concluded, “[v]esting the Vice President with unilateral authority to decide presidential contests would be entirely antithetical” to the Constitutional design.261 Not only did President Trump encourage Vice President Pence to take that unconstitutional step, he pressured Vice President Pence and told his supporters that “if Mike Pence does the right thing, we win the election.” And if he didn’t do as Trump commanded, “Mike Pence . . . I’m going to be very disappointed in you.”262 Little wonder that when President Trump’s supporters stormed the Capitol, some went looking for Vice President Pence.
 
+<div style='text-align:right' markdown="1">
+[Next](/docs/government/mateials-in-support-of-h-res-24-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors-5/)
+</div>
+
+<div style='text-align:left' markdown="1">
+[Previous](/docs/government/mateials-in-support-of-h-res-24-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors-3/)
+</div>
