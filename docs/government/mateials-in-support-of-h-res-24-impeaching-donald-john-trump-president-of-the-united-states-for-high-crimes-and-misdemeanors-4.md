@@ -105,7 +105,9 @@ President Trump, however, was not focused on the security or well-being of those
 {: .fs-2}
 <sup>205</sup> Sunlen Serfaty et al., As riot raged at Capitol, Trump tried to call senators to overturn election, CNN (Jan. 8, 2021).
 {: .fs-2}
-<sup>206</sup> Id. 207 Id.
+<sup>206</sup> Id. 
+{: .fs-2}
+<sup>207</sup> Id.
 {: .fs-2}
 
 ***

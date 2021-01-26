@@ -51,7 +51,7 @@ House precedent confirms that the House may proceed directly to consideration of
 
 In the past, the House has conducted an inquiry to investigate allegations of impeachable misconduct against the President of the United States before voting directly on whether to adopt articles of impeachment. The unprecedented role President Trump played in inciting an insurrectionist assault on the United States Capitol on January 6, 2021, however, has created extraordinary circumstances that both demand the House act swiftly and obviate the need for the House to conduct a lengthy inquiry into his conduct. The urgency of the situation—as well as the fact that the President’s actions occurred in public, and many Members directly witnessed and were victim to the consequences of those actions—obviates the need for additional inquiry.<sup>120</sup>
 
-#### B. Application of Impeachment Standards to President Trump’s Conduct
+#### **B. Application of Impeachment Standards to President Trump’s Conduct**
 
 As the Article of Impeachment sets forth, President Trump’s conduct easily satisfies the standards for a high Crime and Misdemeanor.
 
@@ -64,8 +64,11 @@ As discussed in the Committee’s prior report, under that standard, there can b
 ***
 
 <sup>119</sup> Constitution, Jefferson’s Manual, Rules of the House of Representatives of the United States, H. Doc. No. 115- 177 § 603 (2019 ed.) (hereinafter “Jefferson’s Manual”).
+{: .fs-2}
 <sup>120</sup> Committees of Congress are continuing to investigate misconduct relating to President Trump’s earlier efforts to interfere with the 2016 election and to consider related legislative reforms.
+{: .fs-2}
 <sup>121</sup> See H. Rept. 116-346; H. Doc. 116-95.
+{: .fs-2}
 
 ***
 
@@ -250,7 +253,7 @@ Many others, including current and former members of President Trump’s adminis
 
 President Trump’s impeachable conduct, exacerbated by his further acts and omissions after he incited the crowd to attack the Capitol, grievously injured the national interests of the United States. It threatened democratic self-governance by interfering with the peaceful transition of power, imperiled a coequal branch of government, endangered our national security, and betrayed his oath of office and the trust of the American people.
 
-###### a. Attack on Democratic Processes and the Peaceful Transition of Power
+###### **a. Attack on Democratic Processes and the Peaceful Transition of Power**
 
 The insurrection incited by President Trump had a clear goal: attack, menace, obstruct, and ultimately prevent Congress in any way from carrying out its solemn constitutional duty to count the Electoral College vote. In fact, the rioters managed to delay the democratic processes for at least six hours. And, although the Joint Session reconvened and fulfilled its duty that same day, the lasting injury to our nation cannot be overstated.
 
