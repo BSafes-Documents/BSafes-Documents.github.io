@@ -42,3 +42,4 @@ In the words of Vice President Pence, the “Presidency belongs to the American 
 <div style='text-align:left' markdown="1">
 [Previous](/docs/government/mateials-in-support-of-h-res-24-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors-4/)
 </div>
+</div>

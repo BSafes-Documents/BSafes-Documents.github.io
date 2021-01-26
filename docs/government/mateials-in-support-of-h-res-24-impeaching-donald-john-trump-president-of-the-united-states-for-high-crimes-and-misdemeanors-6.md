@@ -330,3 +330,4 @@ Dan Packel, Thousands of Attorneys Join Calls for Trump's Immediate Removal, Law
 <div style='text-align:left' markdown="1">
 [Previous](/docs/government/mateials-in-support-of-h-res-24-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors-5/)
 </div>
+</div>

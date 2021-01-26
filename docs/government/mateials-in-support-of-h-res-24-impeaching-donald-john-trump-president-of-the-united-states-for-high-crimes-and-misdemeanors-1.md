@@ -47,3 +47,4 @@ Impeachment is not a punishment of prior wrongs, but a protection against future
 <div style='text-align:right' markdown="1">
 [Next](/docs/government/mateials-in-support-of-h-res-24-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors-2/)
 </div>
+</div>

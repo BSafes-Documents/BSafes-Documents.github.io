@@ -339,3 +339,5 @@ President Trump also encouraged his Vice President to violate his own oath and c
 <div style='text-align:left' markdown="1">
 [Previous](/docs/government/mateials-in-support-of-h-res-24-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors-3/)
 </div>
+</div>
+

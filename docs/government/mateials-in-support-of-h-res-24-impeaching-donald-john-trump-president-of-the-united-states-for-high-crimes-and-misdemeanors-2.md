@@ -492,3 +492,4 @@ As the President’s former Chief of Staff John Kelly explained on January 7th, 
 <div style='text-align:left' markdown="1">
 [Previous](/docs/government/mateials-in-support-of-h-res-24-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors-1/)
 </div>
+</div>
