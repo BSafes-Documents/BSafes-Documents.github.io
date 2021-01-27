@@ -30,7 +30,7 @@ The events surrounding the impeachable conduct occurred in plain sight, unfolded
 
 On the basis of these facts, it is indisputable that President Trump committed “high Crimes and Misdemeanors.” The evidentiary record available to date bearing on this conduct is set forth in the Appendix.
 
-#### A. Conduct Leading Up to January 6, 2021
+#### **A. Conduct Leading Up to January 6, 2021**
 In the months leading up to January 6, 2021 President Trump engaged in a course of conduct designed to encourage and provoke his supporters to gather in Washington, D.C. and obstruct the process of the electoral votes that would confirm his defeat. That conduct spanned months and included frivolous and harassing lawsuits, direct threats to state and local officials, and false public statements to his supporters, all in an effort to incite his supporters into believing it was their patriotic duty to attack Congress and prevent the peaceful transition of power.
 
 In the aftermath of the 2020 election, President Trump took aggressive steps to overturn its outcome and undermine public confidence in the results. The President and his allies filed sixty- two separate lawsuits across federal and state courts contesting every aspect of the election.<sup>1</sup> Every single lawsuit was dismissed, with the exception of one in Pennsylvania regarding ballot curing, and, even there, the court ruling did not in any way change the outcome of the election results in that state.<sup>2</sup> The President and those associated with him continue to press their increasingly baseless claims long after their factual and legal contentions had been repeatedly dismissed. These frivolous lawsuits were used by President Trump and his allies, not to identify legitimate concerns, but to undermine confidence in the results of the election, spread dangerous disinformation, and stoke false and wild conspiracy theories.
@@ -146,7 +146,7 @@ As President Trump ramped up his rhetoric and false claims, his supporters were 
 
 ***
 
-#### B. The January 6, 2021 “Save America Rally”
+#### **B. The January 6, 2021 “Save America Rally”**
 By January 6th, President Trump had succeeded in creating a tinder box of thousands of supporters, riled up and ready to obstruct the electoral count if Vice President Pence refused to undertake unconstitutional action in his role as Presiding Officer at the Joint Session. In fact, the President tweeted twelve times on the morning of January 6th, continuing to spread false claims that the election was “rigged,” and encouraging his supporters to “fight” and “be strong.”<sup>29</sup> President Trump also urged Vice President Pence to act illegally before the electoral count began, tweeting at 8:17 AM on the morning of January 6, 2021, “States want to correct their votes, which they now know were based on irregularities and fraud, plus corrupt process never received legislative approval. All Mike Pence has to do is send them back to the States, AND WE WIN. Do it Mike, this is a time for extreme courage!”<sup>30</sup>
 
 President Trump had also already scheduled a rally for the day that Congress was assembled to finalize the election results, set up within walking distance of the Capitol, dubbed the “Save America Rally.” The title and location of the rally further underscored the President’s messaging to his supporters that it was their patriotic duty to stop the electoral count.
@@ -211,7 +211,7 @@ While President Trump was speaking, Vice President Pence issued a public letter 
 
 As soon as President Trump concluded his speech, thousands of attendees marched down Pennsylvania Avenue toward Capitol Hill—just as President Trump had instructed them.
 
-#### C. The Attack on the Capitol
+#### **C. The Attack on the Capitol**
 On January 6, at 1:00 PM, as the President’s rally was drawing to a close, the House and the Senate met in a Joint Session of Congress, with the Vice President presiding, to count the Electoral College’s votes for who “shall be the President. ” as required by the Twelfth Amendment and the Electoral Count Act.<sup>40</sup> By around 2:00 PM, the supporters attending the rally had surged toward the Capitol and were attempting to breach its security barriers, requiring the Capitol Police to issue a number of security orders including one at 2:03 PM ordering an internal relocation of those in the Cannon House Office Building.<sup>41</sup>
 
 At 2:02 PM, less than an hour after the President concluded his speech, reports confirmed that his supporters were attempting to breach the Capitol itself.<sup>42</sup> Within minutes, Members of the House and Senate were told that the Capitol was in lockdown and were alerted to stay away from doors and windows.<sup>43</sup> By 2:07 PM, the mob had breached the steps on the east side of the Capitol and, minutes later, were inside the Capitol itself.<sup>44</sup> From that time, the insurrectionists desecrated the Capitol including by, among other acts, ransacking and looting Member offices, stealing and destroying electronics, government property, and sensitive materials, and engaging in violence, which eventually resulted in at least five deaths. The following is a summary of these acts as recounted in criminal complaints, eyewitness experiences, and firsthand photographs and videos of the events.
@@ -323,7 +323,7 @@ Other Members also described the confusion and chaos as the siege closed in on t
 
 Many Members and staff were left traumatized by the experience. Representative Nancy Mace “felt unsafe returning to her hotel. What if rioters, who had just stormed and overtaken the Capitol building, were staying at her hotel? ... She’d spent Wednesday huddled in someone’s corner office, then stuck in a tunnel, then hunkered in her office with the lights off, her children texting her with worry.”<sup>74</sup>
 
-#### D. President Trump’s Response to the Insurrection
+#### **D. President Trump’s Response to the Insurrection**
 Although the insurrection began immediately following the conclusion of his speech, President Trump did not swiftly denounce the violence, or order his supporters to lay down their arms. To the contrary, as he watched the violence unfold on television, President Trump was reportedly “borderline enthusiastic because it meant the certification was being derailed.”<sup>75</sup> President Trump’s reaction “genuinely freaked people out.”<sup>76</sup> Senator Ben Sasse relayed a conversation with senior White House officials that President Trump was “walking around the White House confused about why other people on his team weren’t as excited as he was as you had rioters pushing against Capitol Police trying to get into the building.”<sup>77</sup> He was “delighted.”<sup>78</sup>
 
 ***
@@ -406,7 +406,7 @@ Despite the President’s belatedly released video, the insurrection continued. 
 
 By the time the Capitol was secured and counting resumed, four of the insurrectionists have died. One was shot by Capitol Police as she tried to climb through a window in order to gain access to the House chamber, and three succumbed to medical emergencies suffered during the attack.<sup>96</sup> In addition, it was widely reported that many Capitol Police Officers had been injured by insurrectionist attacks, one of whom would die the following day.<sup>97</sup> Yet, at 6:01 PM, in the aftermath of this devastation, President Trump’s statement to the public was not a condemnation of the violence. Rather, it was a message that justified his supporters’ actions and reiterated his lies about the election. He tweeted: “These are the things and events that happen when a sacred landslide election victory is so unceremoniously & viciously stripped away from great patriots who have been badly & unfairly treated for so long,”<sup>98</sup> ending with: “***Remember this day forever!***”<sup>99</sup>
 
-#### E. The Events of January 6th Were a Result of and Incited by the President’s Course of Conduct
+#### **E. The Events of January 6th Were a Result of and Incited by the President’s Course of Conduct**
 
 The timeline of events demonstrates that President Trump encouraged and incited the violent and seditious acts that occurred. Moreover, the lawlessness that resulted from President Trump’s conduct was entirely foreseeable by the President.
 
