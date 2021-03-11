@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Conspiracy to Commit Computer Fraud, Sebastien Vachon-Desjardins 
+title: § Conspiracy to Commit Computer Fraud, Sebastien Vachon-Desjardins 
 parent: Government 
-has_children: yes
 nav_order: 9800029  
 ---
 <style>
